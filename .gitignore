@@ -30,5 +30,3 @@ $RECYCLE.BIN/
 .vscode/
 .history/
 *.code-workspace
-blog/urls.py
-blog/templates/blog/post_list.html
